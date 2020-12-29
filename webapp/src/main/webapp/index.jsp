@@ -1,4 +1,4 @@
 <h1> testingpurpose Learning</h1>
-<h2>this is created only for practice purpose</h2>
-<h2> If i can do this then anybody can do it.</h2>
-<h2> Thank you and don't forget to do practice. </h2>
+<h2>this is created for practice purpose</h2>
+<h2> Try hard</h2>
+<h2> Thank you</h2>
